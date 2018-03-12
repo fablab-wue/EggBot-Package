@@ -3,18 +3,20 @@ EggBot - Package
 
 # UNDER CONSTRUCTION
 
-*_Software for the Original EggBot_*
+*_Software for the EggBot project based on Arduino Uno/Nano on Mac, Windows and Linux_*
 
-This is a repository for software to drive The Original EggBot, by Evil Mad Scientist Laboratories. More information at http://www.egg-bot.com/
+This is a repository for all neccecary files to program and drive an EggBot.
 
-Code here includes the extensions for Inkscape, firmware for the EiBotBoard (AKA "EBB", or EggBotBoard), and example plot files. All code is designed to work on Mac, Windows and Linux.
-
-The release version of the code is labeled version 2.5.0. New Mac and Windows installers have been released. Manual install is available for Linux (as well as Mac or Windows).
-
+The origional EggBot was designed by Evil Mad Scientist Laboratories. More information at http://www.egg-bot.com/
 
 ----
 
-This repository has been migrated from: https://code.google.com/p/eggbotcode/
+This repository is based and/or includes parts of: 
+* https://code.google.com/p/eggbotcode/
+* https://github.com/evil-mad/EggBot/releases/tag/2.7.1
+* https://github.com/evil-mad/plotink
+* https://github.com/section77/EggDuino
 
 Extended documentation available at: http://wiki.evilmadscientist.com/eggbot
 
+See also: https://www.thingiverse.com/tag:Eggbot
